@@ -1,0 +1,17 @@
+bldd Report
+===========
+
+Generated on: 2025-05-03 02:01:43
+
+Summary:
+Total libraries found: 1
+Total executables analyzed: 1
+
+Detailed Report:
+--------------
+
+Library: libc.so.6
+Total usages: 1
+Executables:
+  - tests/testbin/x86_64/test (x86_64)
+
