@@ -102,7 +102,6 @@ $ python3 src/bldd.py \
 **Resulting `test_report.txt`:**
 
 ```
-
 Summary:
 Total libraries found: 1
 Total executables analyzed: 4
@@ -122,6 +121,7 @@ Executables:
 Other commands where executed to test the implementation, you can find the results in the `output` folder.
 
 **Other tests:**
+
 ![Screenshot of report](screenshots/report_on_bin.png)
 
 ![Screenshot of report](screenshots/armv7_report.png)
