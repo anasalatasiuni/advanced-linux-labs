@@ -1,4 +1,4 @@
-## Lab 2 
+## Lab 2 [Github Repo](https://github.com/anasalatasiuni/advanced-linux-labs/tree/main/Lab2)
 
 1. Discover and implement its license-generation algorithm (keygen).
 2. Create a binary patch to disable licensing.
