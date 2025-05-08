@@ -1,0 +1,12 @@
+CC = gcc
+CFLAGS = -Wall -Wextra
+
+TARGET = kernel_stack
+
+all: $(TARGET)
+
+$(TARGET): kernel_stack.c
+	$(CC) $(CFLAGS) -o $@ $<
+
+clean:
+	rm -f $(TARGET) *.o 
